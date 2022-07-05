@@ -1,7 +1,6 @@
 import Observed #dictionary file
 import TrajTools
 import numpy as np
-import matplotlib.pyplot as plt
 import pdb
 import scipy.stats as stats
 from astropy.coordinates import SkyCoord
